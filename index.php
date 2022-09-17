@@ -27,7 +27,7 @@ if (!isset($_SESSION["login"])) {
             <div class="card">
                 <div class="card-body">
                     <h2 class="card-title">Daftar Supplier</h2>
-                    <p class="card-text">Daftar Supplier yang bekerja sama dengan Apotek Grajakan</p>
+                    <p class="card-text">Daftar Supplier yang bekerja sama dengan apotek</p>
                     <a href="supplier.php" class="btn btn-primary">Daftar Supplier</a>
                 </div>
             </div>
